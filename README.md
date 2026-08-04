@@ -24,7 +24,7 @@
 ## ✨ Key Features
 
 - **👥 Client Management**: Perform Complete CRUD operations (Add, Delete, Update, Find, List) for bank clients.
-- **💰 Transactions System**: Handle deposits, withdrawals, fund transfers, and view total system balances. Includes a comprehensive transfer log.
+- **💰 Financial Transactions**: Handle deposits, withdrawals, fund transfers, and view total system balances. Includes a comprehensive transfer log.
 - **🔐 User Management & Security**: Multi-tier user access (Admin vs. Standard User), secure login system with attempt tracking, and complete CRUD operations for managing system users.
 - **💱 Currency Exchange Module**: List global currencies, find specific currencies, update exchange rates dynamically, and utilize a built-in currency calculator.
 - **🧱 Object-Oriented Design**: Built using advanced Object-Oriented Programming (OOP) principles, including encapsulation, inheritance, polymorphism, and a clear separation of concerns for a scalable and maintainable codebase.
@@ -62,5 +62,42 @@ Bank_Management_System/
     ├── TransferLog.txt
     └── Users.txt
 ```
+
+---
+## 🛠️ Technologies & Tools
+
+| Category | Technology |
+| :--- | :--- |
+| **Language** | C++ |
+| **IDE** | Visual Studio 2022 |
+| **Architecture** | Object-Oriented Programming (OOP) |
+| **Data Storage** | Text Files (.txt) |
+| **Version Control** | Git & GitHub |
+
+---
+
+## 🚀 Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/Bank_System_UI.git
+   cd Bank_System_UI
+   ```
+
+2. **Open the Project:**
+   - Double-click the `Project 3 Bank_System_UI.sln` file to open it in Visual Studio.
+
+3. **Verify Data Directory:**
+   - Ensure the `Data/` folder is located in the same directory as the `.vcxproj` file. The application relies on these text files for its database.
+
+---
+## 💻 How to Run
+
+1. **Build the Application:**
+   - In Visual Studio, press `Ctrl + Shift + B` (or go to **Build > Build Solution**).
+2. **Run the Application:**
+   - Press `F5` for debugging mode, or `Ctrl + F5` to run without debugging.
+3. **Login:**
+   - Use the default Admin credentials provided in the system (e.g., username `Admin`, password `1234` — *check `Users.txt` for exact credentials*).
 
 ---
