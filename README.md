@@ -20,3 +20,13 @@
 **Bank Management System** is a  console application that simulates a real-world banking environment. Designed with a separation of concerns, the project features a fully functional text-based graphical user interface. It provides extensive capabilities for client and user management, secure transactions, and an integrated currency exchange module. Data persistence is handled efficiently via a custom text file database.
 
 ---
+
+## ✨ Key Features
+
+- **👥 Client Management**: Perform Complete CRUD operations (Add, Delete, Update, Find, List) for bank clients.
+- **💰 Transactions System**: Handle deposits, withdrawals, fund transfers, and view total system balances. Includes a comprehensive transfer log.
+- **🔐 User Management & Security**: Multi-tier user access (Admin vs. Standard User), secure login system with attempt tracking, and complete CRUD operations for managing system users.
+- **💱 Currency Exchange Module**: List global currencies, find specific currencies, update exchange rates dynamically, and utilize a built-in currency calculator.
+- **🧱 Object-Oriented Design**: Built using advanced Object-Oriented Programming (OOP) principles, including encapsulation, inheritance, polymorphism, and a clear separation of concerns for a scalable and maintainable codebase.
+
+---
