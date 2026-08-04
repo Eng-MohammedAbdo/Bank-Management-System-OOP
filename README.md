@@ -30,3 +30,37 @@
 - **🧱 Object-Oriented Design**: Built using advanced Object-Oriented Programming (OOP) principles, including encapsulation, inheritance, polymorphism, and a clear separation of concerns for a scalable and maintainable codebase.
 
 ---
+
+## 📂 Folder Structure
+
+The project follows a professional and modular directory structure:
+
+```text
+Bank_Management_System/
+├── 📄 Bank_Management_System.sln   # Visual Studio Solution File
+├── 📄 Bank_Management_System.cpp   # Main Application Entry Point
+├── 📄 Global.h                     # Global State (Logged-in User)
+├── 📁 Core/                        # Core Entity Models
+│   ├── clsBankClient.h
+│   ├── clsCurrency.h
+│   ├── clsPerson.h
+│   └── clsUser.h
+├── 📁 Lib/                           # Reusable Utilities & Libraries
+│   ├── clsDate.h                     # Date Manipulation
+│   ├── clsInputValidate.h            # Strict Input Validation
+│   ├── clsString.h                   # String Parsing & Formatting
+│   └── clsUtil.h                     # General Utilities (Encryption, Random)
+├── 📁 Screens/                      # Presentation / UI Layer
+│   ├── clsScreen.h                   # Base Screen Interface
+│   ├── 📁 Client/                    # Client-related Screens (Deposit, Withdraw, etc.)
+│   ├── 📁 Currency/                  # Currency Exchange Screens
+│   └── 📁 User/                      # User Management & Login Screens
+└── 📁 Data/                          # Text-based Database Files
+    ├── Clients.txt
+    ├── Currencies.txt
+    ├── LoginRegister.txt
+    ├── TransferLog.txt
+    └── Users.txt
+```
+
+---
