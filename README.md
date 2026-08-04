@@ -14,3 +14,9 @@
 </p>
 
 ---
+
+## 📝 Project Overview
+
+**Bank Management System** is a  console application that simulates a real-world banking environment. Designed with a separation of concerns, the project features a fully functional text-based graphical user interface. It provides extensive capabilities for client and user management, secure transactions, and an integrated currency exchange module. Data persistence is handled efficiently via a custom text file database.
+
+---
