@@ -101,3 +101,21 @@ Bank_Management_System/
    - Use the default Admin credentials provided in the system (e.g., username `Admin`, password `1234` — *check `Users.txt` for exact credentials*).
 
 ---
+## 📸 Screenshots
+
+<div align="center">
+  
+| Login Screen | Main Menu |
+| :---: | :---: |
+| <img src="https://via.placeholder.com/400x250/000000/FFFFFF?text=Login+Screen" alt="Login Screen" width="400"/> | <img src="https://via.placeholder.com/400x250/000000/FFFFFF?text=Main+Menu" alt="Main Menu" width="400"/> |
+| **Transactions Menu** | **Currency Exchange** |
+| <img src="https://via.placeholder.com/400x250/000000/FFFFFF?text=Transactions+Menu" alt="Transactions Menu" width="400"/> | <img src="https://via.placeholder.com/400x250/000000/FFFFFF?text=Currency+Exchange" alt="Currency Exchange" width="400"/> |
+
+</div>
+
+---
+## 📄 License & Credits
+
+- **Author:** Mohammed Abdo Rashed
+- **Purpose:** This project was developed for educational and portfolio purposes.
+- **Notice:** You are welcome to study and learn from this project. Please do not redistribute or claim the code as your own without permission.
