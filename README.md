@@ -80,7 +80,7 @@ Bank_Management_System/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Bank_System_UI.git
+   git clone https://github.com/Eng-MohammedAbdo/Bank-Management-System-OOP.git
    cd Bank_System_UI
    ```
 
