@@ -107,9 +107,9 @@ Bank_Management_System/
   
 | Login Screen | Main Menu |
 | :---: | :---: |
-| <img src="https://via.placeholder.com/400x250/000000/FFFFFF?text=Login+Screen" alt="Login Screen" width="400"/> | <img src="https://via.placeholder.com/400x250/000000/FFFFFF?text=Main+Menu" alt="Main Menu" width="400"/> |
+| <img src="Bank-Management-System/Bank_Management_System/ScreenShot/Login.PNG" alt="Login Screen" width="400"/> | <img src="Bank-Management-System/Bank_Management_System/ScreenShot/Main.PNG" alt="Main Menu" width="400"/> |
 | **Transactions Menu** | **Currency Exchange** |
-| <img src="https://via.placeholder.com/400x250/000000/FFFFFF?text=Transactions+Menu" alt="Transactions Menu" width="400"/> | <img src="https://via.placeholder.com/400x250/000000/FFFFFF?text=Currency+Exchange" alt="Currency Exchange" width="400"/> |
+| <img src="Bank-Management-System/Bank_Management_System/ScreenShot/Transactions.PNG" alt="Transactions Menu" width="400"/> | <img src="https://via.placeholder.com/400x250/000000/FFFFFF?text=Currency+Exchange" alt="Currency Exchange" width="400"/> |
 
 </div>
 
